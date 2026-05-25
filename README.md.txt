@@ -1,5 +1,9 @@
 # Notary Case Analytics Dashboard
 
+## Live Demo
+
+https://legal-case-analytics-dashboard-gkqbborzomstuaxxbikwxy.streamlit.app/
+
 Interactive analytics dashboard for notary case management built with MySQL, Python, Streamlit, Pandas, and Plotly.
 
 ---
